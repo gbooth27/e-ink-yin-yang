@@ -1,0 +1,41 @@
+{
+  "publisher": "oblivious",
+  "name": "e-ink-yin-yang",
+  "displayName": "E-Ink-陰陽",
+  "license": "MIT",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Oblivious-Oblivious/e-ink-yin-yang"
+  },
+  "package": "353e002b-7bff-69cb-990e-8a63b105f6a4a",
+  "keywords": [
+    "theme",
+    "color scheme",
+    "e-ink",
+    "yin",
+    "yang"
+  ],
+  "description": "An E-Ink theme adding a dark mode to hui890514's theme",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "E Ink 陰陽 Light",
+        "uiTheme": "hc-light",
+        "path": "./themes/e-ink-陰陽-light.json"
+      },
+      {
+        "label": "E Ink 陰陽 Dark",
+        "uiTheme": "hc-black",
+        "path": "./themes/e-ink-陰陽-dark.json"
+      }
+    ]
+  }
+}
