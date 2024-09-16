@@ -3,7 +3,7 @@
   "name": "e-ink-yin-yang",
   "displayName": "E-Ink-陰陽",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icon": "icon.png",
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
     "yin",
     "yang"
   ],
-  "description": "An E-Ink theme adding a dark mode to hui890514's theme",
+  "description": "An E-Ink inspired theme for light and dark modes.",
   "engines": {
     "vscode": "^1.80.0"
   },

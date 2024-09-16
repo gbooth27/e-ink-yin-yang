@@ -1,7 +1,5 @@
 # E-Ink-陰陽 Theme for VSCode
 
-An E-Ink inspired theme for light and dark modes.
-
 ## Thanks
 
 Big props to hui890514 for creating the original theme -> https://marketplace.visualstudio.com/items?itemName=hui890514.vscode-theme-e-ink
