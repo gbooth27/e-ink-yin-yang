@@ -3,9 +3,9 @@
   "base": "hc-dark",
   "$schema": "vscode://schemas/color-theme",
   "colors": {
-    "errorForeground": "#B5200D",
-    "list.errorForeground": "#B5200D",
-    "list.invalidItemForeground": "#B5200D",
+    "errorForeground": "#FF6677",
+    "list.errorForeground": "#FF6677",
+    "list.invalidItemForeground": "#FF6677",
     "list.warningForeground": "#CCA300",
     "activityBar.activeBackground": "#000000",
     "activityBar.background": "#000000",
